@@ -1,7 +1,7 @@
 {
   "name": "adobe-launcher-plugin",
-  "version": "0.0.1",
-  "description": "this launcher plugin",
+  "version": "0.0.5",
+  "description": "A Capacitor plugin for launching Adobe applications and opening URLs on mobile devices",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
